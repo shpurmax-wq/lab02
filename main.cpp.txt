@@ -1,0 +1,6 @@
+﻿Build started at 19:57...
+1>------ Build started: Project: LB02, Configuration: Debug x64 ------
+1>LB0_02.cpp
+1>LB02.vcxproj -> D:\Student\LB02\x64\Debug\LB02.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 19:57 and took 02,630 seconds ==========
